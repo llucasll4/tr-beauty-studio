@@ -71,7 +71,7 @@ function Home() {
               </a>
             </Button>
             <Button asChild variant="outline" size="lg" className="h-11 rounded-full bg-card text-xs">
-              <a href={instagramLink(studio?.instagram)} target="_blank" rel="noreferrer">
+              <a href="https://www.instagram.com/__thalitanaildesign?igsh=c3A4emlocGRxOXEx">
                 <Instagram className="h-4 w-4" /> Instagram
               </a>
             </Button>
